@@ -1,0 +1,1 @@
+<view class="content" style="background-image:url(../../static/login/bg_login.png);"><view class="text-area"><text class="title">注册登录后体检更多精彩</text></view><view class="login_in"><view class="phone">+86<input type="text" value="" placeholder="请输入您的手机号"/></view><view class="pwd"><input type="password" value="" placeholder="请输入密码"/></view></view></view>
